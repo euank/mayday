@@ -74,7 +74,7 @@ The following is collected only if the `--danger` flag is activated:
 
 * logs and environment variables of docker and rkt containers
 
-The following information is **never** collected:
+The following information is **never** intentionally collected:
 
 * private keys
 * passwords
